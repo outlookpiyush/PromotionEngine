@@ -1,0 +1,23 @@
+// JSON File For SKU
+[
+  {
+    "SKUID": 1,
+    "SKU": "A",
+    "SellPrice": 50
+  },
+  {
+    "SKUID": 2,
+    "SKU": "B",
+    "SellPrice": 30
+  },
+  {
+    "SKUID": 3,
+    "SKU": "C",
+    "SellPrice": 20
+  },
+  {
+    "SKUID": 4,
+    "SKU": "D",
+    "SellPrice": 15
+  }
+]

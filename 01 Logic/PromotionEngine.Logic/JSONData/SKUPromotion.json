@@ -1,0 +1,58 @@
+// JavaScript source code
+[
+  {
+    "PromotionID": 1,
+    "PromotionDescription": "3 Of A For 130",
+    "IsItemDisc": true,
+    "IsFlat": true,
+    "SKUID": 1,
+    "PromotionQty": 3,
+    "PromotionAmount": 130.00,
+    "ReferSKUID": 0,
+    "ReferSKUQty": 0
+  },
+  {
+    "PromotionID": 2,
+    "PromotionDescription": "2 Of B For 45",
+    "IsItemDisc": true,
+    "IsFlat": true,
+    "SKUID": 2,
+    "PromotionQty": 2,
+    "PromotionAmount": 45.00,
+    "ReferSKUID": 0,
+    "ReferSKUQty": 0
+  },
+  {
+    "PromotionID": 3,
+    "PromotionDescription": "C & D For 30",
+    "IsItemDisc": true,
+    "IsFlat": true,
+    "SKUID": 3,
+    "PromotionQty": 1,
+    "PromotionAmount": 30.00,
+    "ReferSKUID": 4,
+    "ReferSKUQty": 1
+  },
+  {
+    "PromotionID": 4,
+    "PromotionDescription": "Full Bill Discount",
+    "IsItemDisc": false,
+    "IsFlat": true,
+    "SKUID": 0,
+    "PromotionQty": 0,
+    "PromotionAmount": 120.00,
+    "ReferSKUID": 0,
+    "ReferSKUQty": 0
+  },
+  {
+    "PromotionID": 5,
+    "PromotionDescription": "More Than 5 Of A Whole Line Discount 5%",
+    "IsItemDisc": true,
+    "IsFlat": false,
+    "SKUID": 1,
+    "PromotionQty": 5,
+    "PromotionAmount": 10.00,
+    "ReferSKUID": 0,
+    "ReferSKUQty": 0
+  }
+]
